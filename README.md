@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 -->
 ---
 
-<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kana800&show_icons=true&hide_border=true" />                   
-<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kana800&layout=compact">
+<img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kana800&show_icons=true&hide_border=true" />                   
 
 
 ---
 
 **Keys**
-
 [Public PGP Key](https://keybase.io/kana800/pgp_keys.asc)
