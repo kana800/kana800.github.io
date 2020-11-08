@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/olivierlaflammelink/)
-<a href="mailto:inuxxs@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
 <!--
@@ -25,5 +23,12 @@ Here are some ideas to get you started:
 
 ---
 
-**Keys**
+### Contact
+
 [Public PGP Key](https://keybase.io/kana800/pgp_keys.asc)
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/olivierlaflammelink/)
+<a href="mailto:inuxxs@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+<a href="https://keybase.io/kana800/pgp_keys.asc"> <img src="https://img.icons8.com/color/48/000000/keybase.png" width="3.5%"/> </a>
+<a href="https://keybase.io/kana800"> <img src="https://img.icons8.com/windows/32/000000/keybase2.png" width="3.5%"/> </a>
+
