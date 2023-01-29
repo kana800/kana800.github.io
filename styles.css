@@ -2,12 +2,12 @@ html {
     scroll-behavior: smooth;
     padding: 0;
     line-height: 1.5;
-    font-size: 12pt;
+    font-size: 10pt;
 }
 
 body{
-    background-color:rgb(8, 8, 8);
-    color: #dedede;
+    background-color:rgb(32, 1, 18);
+    color: #b9b9b9;
     margin: auto;
     padding: 0;
     padding-top: 2rem;
@@ -28,6 +28,12 @@ h4, h5, h6 {
 a{
     text-decoration:none;
     color:#d344e2;
+}
+
+#a-nav{
+    text-decoration:none;
+    color:#09ff00;
+    font-size: 9pt;
 }
 
 em{
@@ -75,15 +81,4 @@ pre>code{
     display: block;
     margin-left: 20px;
     font-size: 10px;
-}
-
-.intro {
-    font-size: 0.8rem;
-    overflow: auto;
-    padding: 1.3rem;
-    padding-right: 0.6rem;
-    border: 2px solid #666;
-    border-radius: 0.4rem;
-    text-align: center;
-    margin: 0.5rem;
 }
